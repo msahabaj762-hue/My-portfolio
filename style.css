@@ -205,3 +205,16 @@ button:hover{
     color: black;
 }
 
+.project{
+    background:#1e1e1e;
+    padding:20px;
+    margin:15px 0;
+    border-radius:10px;
+    transition:.3s;
+}
+
+.project:hover{
+    transform:scale(1.03);
+}
+
+
